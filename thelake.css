@@ -1,0 +1,35 @@
+div#map-canvas {
+	height: 500px;
+	width: 500px;
+}
+
+
+h1:hover{
+  font-style:italic;
+  font-size:40px;
+}
+
+
+
+button{
+  width:100px;
+  height:100px;
+  color:#ffffff;
+  font-family:'segoe ui light'; 
+  text-decoration:none;
+  font-size:20px;
+  border:2px #ffffff solid;
+  margin-left:5px;
+  margin-bottom:10px; 
+  
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+
+.highlight:hover{
+  background-color: #FFffff;
+  color:#009999;
+}
+
